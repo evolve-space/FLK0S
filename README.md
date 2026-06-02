@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Stars](https://img.shields.io/github/stars/evolve-space/FLK0S?style=flat-square&color=22d3ee&logo=github&label=stars)](https://github.com/evolve-space/FLK0S/stargazers) ![Views](https://visitor-badge.laobi.icu/badge?page_id=evolve-space.FLK0S&label=views&color=22d3ee)
+
 # FLK0S
 
 ### Cybersecurity Operations Platform — un solo ecosistema, no cinco herramientas.
